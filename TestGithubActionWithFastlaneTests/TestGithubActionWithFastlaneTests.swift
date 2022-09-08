@@ -20,12 +20,16 @@ class TestGithubActionWithFastlaneTests: XCTestCase {
     func testExample() throws {
         XCTAssertEqual(2*2, 4)
     }
-
-    func testPerformanceExample() throws {
-        // This is an example of a performance test case.
-        measure {
-            // Put the code you want to measure the time of here.
-        }
+    
+    func testExampleTwo() throws {
+        XCTAssertEqual(3*3, 9)
     }
+
+//    func testPerformanceExample() throws {
+//        // This is an example of a performance test case.
+//        measure {
+//            // Put the code you want to measure the time of here.
+//        }
+//    }
 
 }
