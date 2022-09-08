@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='TestGithubActionWithFastlaneTests.xctest' tests='2' failures='0'>
+  <testsuite name='TestGithubActionWithFastlaneTests.TestGithubActionWithFastlaneTests' tests='2' failures='0'>
+    <testcase classname='TestGithubActionWithFastlaneTests.TestGithubActionWithFastlaneTests' name='testExample' time='0.005'/>
+    <testcase classname='TestGithubActionWithFastlaneTests.TestGithubActionWithFastlaneTests' name='testPerformanceExample' time='0.411'/>
+  </testsuite>
+</testsuites>

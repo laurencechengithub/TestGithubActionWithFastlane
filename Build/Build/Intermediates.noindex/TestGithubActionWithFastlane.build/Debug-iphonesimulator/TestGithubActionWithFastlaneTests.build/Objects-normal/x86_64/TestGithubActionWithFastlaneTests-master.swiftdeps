@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "2f8c5f3eec5403144d63dc5724ccfe24043637d193ecfd0a702f5b6937c49b30"
+build_start_time: [1662627934, 675811052]
+build_end_time: [1662627943, 900707960]
+inputs:
+  ? "/Users/laurencembp2/Documents/Swift_Projects/TestGithubActionWithFastlane/TestGithubActionWithFastlaneTests/TestGithubActionWithFastlaneTests.swift"
+  : [1662616572, 62987089]

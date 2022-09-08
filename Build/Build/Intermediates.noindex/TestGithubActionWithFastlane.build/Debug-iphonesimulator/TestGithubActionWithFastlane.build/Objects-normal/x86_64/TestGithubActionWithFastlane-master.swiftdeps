@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "593181a6aac12c1760d6610407350e5502c6a9fafa62c835ca0bac9ef0e76a03"
+build_start_time: [1662628345, 427731037]
+build_end_time: [1662628346, 473908901]
+inputs:
+  "/Users/laurencembp2/Documents/Swift_Projects/TestGithubActionWithFastlane/TestGithubActionWithFastlane/AppDelegate.swift": [1662538727, 996506690]
+  "/Users/laurencembp2/Documents/Swift_Projects/TestGithubActionWithFastlane/TestGithubActionWithFastlane/SceneDelegate.swift": [1662538727, 999523878]
+  "/Users/laurencembp2/Documents/Swift_Projects/TestGithubActionWithFastlane/TestGithubActionWithFastlane/ViewController.swift": [1662538728, 1447677]
