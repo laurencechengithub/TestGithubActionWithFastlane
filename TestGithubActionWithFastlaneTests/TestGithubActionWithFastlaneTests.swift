@@ -22,7 +22,7 @@ class TestGithubActionWithFastlaneTests: XCTestCase {
     }
     
     func testExampleTwo() throws {
-        XCTAssertEqual(3*3, 9)
+        XCTAssertEqual(4*3, 12)
     }
 
 //    func testPerformanceExample() throws {
