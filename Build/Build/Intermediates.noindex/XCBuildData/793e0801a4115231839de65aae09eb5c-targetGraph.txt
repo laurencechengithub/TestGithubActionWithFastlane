@@ -1,4 +1,0 @@
-Target dependency graph (2 targets)
-TestGithubActionWithFastlane in TestGithubActionWithFastlane, no dependencies
-TestGithubActionWithFastlaneTests in TestGithubActionWithFastlane, depends on:
-TestGithubActionWithFastlane in TestGithubActionWithFastlane (explicit)
