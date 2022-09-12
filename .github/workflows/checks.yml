@@ -17,8 +17,8 @@ jobs:
     runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v1
-      - name: List avaible Xcode ver.
-        run: ls /Application | grep Xcode
+      # - name: List avaible Xcode ver.
+      #   run: ls /Application | grep Xcode
       - name: Select Xcode
         run: sudo xcode-select -switch
               /Applications/Xcode_13.4.app &&
