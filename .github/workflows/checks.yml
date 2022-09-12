@@ -29,7 +29,7 @@ jobs:
       - name: Run unit tests
         run: xcodebuild test -scheme TestGithubActionWithFastlane -project TestGithubActionWithFastlane.xcodeproj 
               # -destination 'platform=iOS Simulator,name=iPhone 13,OS=15.2' | xcpretty && exit ${PIPESTATUS[0]}
-              -destination platform:iOS Simulator, id:dvtdevice-DVTiOSDeviceSimulatorPlaceholder-iphonesimulator:placeholder, name:Any iOS Simulator Device
+              -destination 'platform:iOS Simulator, id:dvtdevice-DVTiOSDeviceSimulatorPlaceholder-iphonesimulator:placeholder, name:Any iOS Simulator Device'
 
 
 
