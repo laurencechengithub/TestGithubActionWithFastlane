@@ -28,7 +28,7 @@ jobs:
 
       - name: Run unit tests
         run: xcodebuild test -scheme TestGithubActionWithFastlane -project TestGithubActionWithFastlane.xcodeproj 
-              -destination 'platform=iOS Simulator,name=iPhone 13'
+              -destination 'platform=iOS Simulator,name=iPhone 11,OS=13.3'
               # | xcpretty && exit ${PIPESTATUS[0]}
 
 
